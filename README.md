@@ -10,7 +10,6 @@ Welcome to the **PythonProjects** repository! This is a personal collection of P
   - Randomization (`random` module)
   - Input validation
   - Nested loops and data structures
-- **How to Run**: Run the `main.py` file in a Python 3 environment.
 
 ## Future Updates
 I’ll be adding more projects as I learn new concepts, so stay tuned!
